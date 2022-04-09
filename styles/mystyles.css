@@ -13,8 +13,8 @@ body {
 }
 
 .pictures { 
-  width: 680px;
-  height: 480px;
+  width: 100%;
+  height: auto;
   object-fit: cover;
 }  
 
