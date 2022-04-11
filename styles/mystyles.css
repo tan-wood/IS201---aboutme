@@ -12,6 +12,18 @@ body {
     left: auto;
 }
 
+.footer {
+  bottom: 5px;
+  height: 50px;
+  left: 5px;
+  right: 5px;
+  font-size: 14px;
+  background-color: darkslategrey;
+  color: black;
+  text-align: center; 
+  position: fixed;
+}
+
 .pictures { 
   width: 100%;
   height: auto;
