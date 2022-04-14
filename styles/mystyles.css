@@ -38,10 +38,6 @@ body {
   object-fit: cover;
 }  
 
-.videos {
-  width: 650px;
-  height: 300px;
-}
 
 .videoWrapper {
   position: relative;

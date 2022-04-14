@@ -39,11 +39,6 @@ body {
     padding-right: 5px;
 }
 
-.columns {
-  column-count: 2;
-  column-gap: 40px;
-}
-
 .footer {
     bottom: 5px;
     height: 50px;
